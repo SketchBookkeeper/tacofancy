@@ -59,6 +59,8 @@ It's not just the tacos on Tacofancy that are open source, but the idea and the 
 
 * [the_great_taco_hunt](http://github.com/hunterowens/the_great_taco_hunt) is a repo dedicated to documenting great taco locations, inspired by Tacofancy.
 
+* [CSS Taco w/ randomize](http://codepen.io/sketchbookkeeper/pen/jyPVgY) This codepen uses the Tacofancy API to provide Taco random inspiration. 
+
 
 Endnotes
 --------
